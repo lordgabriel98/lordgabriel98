@@ -11,3 +11,13 @@
 
 
 <h5 align ="center"> Ave Christus Rex ✝ </h5>
+
+<p align="center">
+ <a href="https://lordgabriel98.github.io/GBWeb/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="lordgabriel98" />
+ </a>
+ <a href="https://www.linkedin.com/in/gabriel-baje-166b571aa/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lordgabriel98"/>
+ </a>
+</p>
+<br />
