@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-[![lordgabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lordgabriel98&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![lordgabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lordgabriel98&theme=github)]
 
 <h4 align="center">Aspiring Data Scientist | Web Developer | Programmer</h4>
 
