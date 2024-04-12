@@ -35,5 +35,6 @@
   <img title="HTML5" height="25" src="images/html5.svg">
   <img title="CSS" height="25" src="images/css.svg">
   <img title="Javascript" height="25" src="images/javascript.svg">
+  <img title="node.js" height="25" src="images/Nodejs_logo.svg">
 
 </p>
