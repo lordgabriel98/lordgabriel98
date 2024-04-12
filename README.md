@@ -21,3 +21,19 @@
  </a>
 </p>
 <br />
+
+## Technologies and Frameworks
+
+<p align="center">
+ <img title="C" height="25" src="images/c.svg">
+<img title="Python" height="25" src="images/python-original.svg">
+  <img title="Numpy" height="25" src="images/numpy.svg">
+  <img title="Pandas" height="25" src="images/pandas.svg">
+  <img title="Matplotlib" height="25" src="images/matplotlib.svg">
+  <img title="Seaborn" height="25" src="images/seaborn.svg">
+  <img title="Scikit Learn" height="25" src="images/Scikit_learn.svg">
+  <img title="HTML5" height="25" src="images/html5.svg">
+  <img title="CSS" height="25" src="images/css.svg">
+  <img title="Javascript" height="25" src="images/javascript.svg">
+
+</p>
