@@ -22,7 +22,7 @@
 </p>
 <br />
 
-## Technologies and Frameworks
+<h2 align="center"> Technologies and Frameworks<h2>
 
 <p align="center">
  <img title="C" height="25" src="images/c.svg">
