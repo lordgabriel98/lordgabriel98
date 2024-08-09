@@ -48,6 +48,6 @@
 
 <p align="center">
   <a href="https://github.com/lordgabriel98">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lordgabriel98&theme=dark" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lordgabriel98&theme=dark" alt="Lordgabriel's GitHub streak"/>
   </a>
 </p>
