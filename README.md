@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-![lordgabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lordgabriel98&theme=github)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lordgabriel98" alt="GitHub Streak" /></a>
 
 <h4 align="center">Aspiring Data Scientist | Web Developer | Programmer</h4>
 
