@@ -5,7 +5,6 @@
   </a>
 </h1>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lordgabriel98" alt="GitHub Streak" /></a>
 
 <h4 align="center">Aspiring Data Scientist | Web Developer | Programmer</h4>
 
@@ -48,5 +47,5 @@
 
 <p align="center">
   
-   [![GitHub Streak](https://streak-stats.demolab.com/?lordgabriel98)](https://git.io/streak-stats)
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lordgabriel98" alt="GitHub Streak" /></a>
 </p>
